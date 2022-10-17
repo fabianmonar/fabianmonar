@@ -1,7 +1,7 @@
 ![Welcome to the official GitHub profile of @fabianmonar
 
 
-Mucho gusto mi nombre es fabian monar, soy desarrollador FrontEnd actualmente me encuentro trabajando dentro de la empresa TrueHome y siempre me encuentro en constante aprendizaje para poder seguir desarrollandome y crecer profesionalmente, actualmente este es el stack que manejo, manejo un poco el back aunque mi preferencia es 100% front y/o mobile.
+Mucho gusto mi nombre es fabian monar, soy desarrollador FrontEnd siempre me encuentro en constante aprendizaje para poder seguir desarrollandome y crecer profesionalmente, actualmente este es el stack que manejo, manejo un poco el back aunque mi preferencia es 100% front y/o mobile.
 
 React
 React-Native
