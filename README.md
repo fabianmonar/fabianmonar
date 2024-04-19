@@ -1,15 +1,16 @@
 ![Welcome to the official GitHub profile of @fabianmonar
 
 
-Mucho gusto mi nombre es fabian monar, soy desarrollador FrontEnd siempre me encuentro en constante aprendizaje para poder seguir desarrollandome y crecer profesionalmente, actualmente este es el stack que manejo, manejo un poco el back aunque mi preferencia es 100% front y/o mobile.
+ ¡Hola! Soy Fabián Monar, un apasionado desarrollador FrontEnd de Colombia.
 
-React
-React-Native
-Redux
-Postgres
-Sql
-Node
-Express
-Actualmente me encuentro aprendiendo Vue y Golang
+Acerca de mí
+Soy un desarrollador FrontEnd siempre en búsqueda de nuevos desafíos y oportunidades de crecimiento profesional. Me caracterizo por mi constante aprendizaje y mi compromiso con la excelencia en el desarrollo de aplicaciones web y móviles. Actualmente, estoy expandiendo mis habilidades en el campo de la inteligencia artificial y las bases de datos.
 
-Me encanta adentrarme en el mundo de la tecnologia y la ciencia, me encanta la resolucion de problemas y los retos, soy bueno bueno aprendiendo cosas nuevas y me adapto facilmente a casi cualquier situacion. Me gusta trabajar en equipo y conocer gente nueva. Si te interesa alguno de mis proyectos o perfil en general no dudes en contactarme!.
+🔥 Stack Tecnológico
+FrontEnd: React, React-Native, Redux
+BackEnd: Node.js, Express
+Base de Datos: PostgreSQL, SQL
+📚 Estudios Actuales
+Actualmente me encuentro estudiando bases de datos e inteligencia artificial para fortalecer mis habilidades técnicas y ampliar mi conocimiento en áreas clave de la informática.
+
+¡Siempre estoy abierto a nuevas oportunidades y colaboraciones emocionantes!
