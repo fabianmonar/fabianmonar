@@ -5,8 +5,6 @@
 Acerca de mí
 Soy desarrollador web full stack, con habilidades para trabajar en proyectos tanto en equipo como de manera individual. Me destaco por mi capacidad para resolver problemas y mi disposición para aprender nuevas metodologías y tecnologías. Disfruto trabajar en equipo y aprender de mis compañeros.
 
-🔥 Estadísticas
-Estadísticas de Fabián Monar
 
 🛠️ Mis herramientas favoritas
 👨‍💻 Lenguajes de Programación
