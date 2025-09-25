@@ -1,60 +1,32 @@
 
-👨‍💻 ¡Hola! Soy Fabián Monar, un apasionado del mundo IT con formación en bases de datos e inteligencia artificial.
+👨‍💻¡Hola! Soy Fabián Monar, estudiante de Tecnologías de la Información con formación en Ciencia de Datos, Inteligencia Artificial y Ciberseguridad.
 
-🧠 Acerca de mí
-Soy estudiante de tecnologías de la información, especializado en bases de datos, inteligencia artificial y con conocimientos en ciberseguridad. Me destaco por mi capacidad analítica, pensamiento lógico y orientación a la resolución de problemas. Trabajo con entusiasmo tanto de forma individual como en equipo, siempre abierto a aprender nuevas metodologías, herramientas y tecnologías emergentes.
+🧠 Sobre mí
+Apasionado por la tecnología y la resolución de problemas, me especializo en análisis de datos, desarrollo de scripts en Python y proyectos de IA. Me destaco por mi capacidad analítica, pensamiento lógico y entusiasmo para aprender nuevas herramientas y metodologías.
 
-Tengo interés en proyectos relacionados con el desarrollo web, análisis de datos, automatización y protección de la información. Me motiva seguir creciendo en el mundo tech y aportar valor con soluciones eficientes y seguras.
+💡 Intereses profesionales
 
-🛠️ Tecnologías y herramientas que manejo
-👨‍💻 Lenguajes de programación
-HTML5
+Proyectos de Inteligencia Artificial y Machine Learning.
 
-CSS
+Análisis y visualización de datos con Python y SQL.
 
-JavaScript
+Automatización de procesos y optimización de información.
 
-Node.js
+Seguridad informática y protección de datos.
 
-SQL
+🛠️ Tecnologías y herramientas
 
-🧰 Frameworks y librerías
-React
+Python y Ciencia de Datos:
+Python, Pandas, NumPy, Scikit-learn, Jupyter Notebooks, Google Colab
 
-Redux
+Bases de datos:
+PostgreSQL, MySQL (aprendizaje), MongoDB (introducción)
 
-Express.js
+Cloud & DevOps:
+Git & GitHub, Postman, Docker (en formación)
 
-Bootstrap
-
-🗄️ Bases de datos y almacenamiento
-PostgreSQL
-
-MySQL (en aprendizaje)
-
-MongoDB (introducción)
-
-☁️ Cloud y herramientas DevOps
-Git & GitHub
-
-Postman
-
-Docker (en formación)
-
-🤖 Inteligencia Artificial y Ciencia de Datos (nivel inicial)
-Python (uso para scripts y proyectos de IA)
-
-Pandas, NumPy (manipulación de datos)
-
-Scikit-learn (modelos de ML básicos)
-
-Google Colab, Jupyter Notebooks
-
-🛡️ Ciberseguridad (en formación con Cisco CyberOps Associate)
-Conceptos de defensa en profundidad
-
-SIEM, firewalls y análisis de logs
-
-OSSEC HIDS (monitoreo de integridad y alertas)
+Ciberseguridad:
+Certificado Cisco CyberOps Associate
+Defensa en profundidad, SIEM, firewalls, análisis de logs, OSSEC HIDS
 
 
